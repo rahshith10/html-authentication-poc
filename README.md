@@ -1,18 +1,33 @@
-# HTML Authentication System
+# Authentication System UI (Bootstrap 5)
 
-This project is a simple HTML-based authentication system.
+## 📌 Project Description
 
-## Pages Included:
-- login.html
-- register.html
-- forgot-password.html
-- reset-password.html
-- dashboard.html
+This project is a responsive authentication system built using HTML, Bootstrap 5, and custom CSS. It includes 5 main pages:
 
-## Features:
-- Basic HTML structure
-- Page redirections using anchor tags
-- No CSS or JavaScript used
+* Login Page
+* Registration Page
+* Forgot Password Page
+* Reset Password Page
+* Dashboard Page
 
-## How to Run:
-Open login.html in a browser and navigate using the links.
+## 🚀 Features
+
+* Fully responsive design
+* Bootstrap 5 components
+* Custom styling with CSS
+* Clean and modern UI
+* Mobile-friendly layout
+
+## 🛠️ Technologies Used
+
+* HTML5
+* Bootstrap 5
+* CSS3
+
+## 📸 Screenshots
+
+
+
+## 🔗 GitHub Repository
+
+(Add your repo link here)
